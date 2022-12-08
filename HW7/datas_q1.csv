@@ -1,0 +1,10 @@
+number of samples,100,1000,10000,100000,1000000
+exact value of integral,0.882081,0.882081,0.882081,0.882081,0.882081
+value of simple method,0.861971,0.858452,0.884738,0.880726,0.882117
+value of important method,0.891665,0.880127,0.881681,0.881786,0.882414
+statistical error of simple method,0.034719,0.010714,0.003435,0.00109,0.000345
+statistical error of important method,0.031506,0.009717,0.003056,0.000971,0.000307
+absolute error of simple method,0.02011,0.023629,0.002657,0.001355,3.60E-05
+absolute error of important method,0.009584,0.001954,0.0004,0.000295,0.000333
+runtime of simple method,0,0,0,0.046863,0.472351
+runtime of important method,0,0,0.062483,0.691915,6.745247
